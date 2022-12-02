@@ -1,0 +1,51 @@
+.highlight {
+    background: none;
+    color: yellow;
+    padding: 0;
+    text-decoration: underline;
+}
+
+.preline {
+    white-space: pre-line;
+}
+
+.form-control {
+    background: #494646;
+    color: white;
+}
+
+.form-control:focus {
+    background: #494646;
+    color: white;
+}
+
+.accordion-button,
+.accordion-button:not(.collapsed) {
+    padding: 10px;
+    background: #333333;
+    color: white;
+}
+
+.accordion-button:focus {
+    background: #282b31;
+}
+
+.accordion-item {
+    color: white;
+    background: #4b4b4b;
+    margin: 3px 0;
+}
+
+.white {
+    color: white !important;
+}
+
+.form-check-input {
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 0.5em !important;
+}
+
+.text-content {
+    white-space: pre-line;
+}
